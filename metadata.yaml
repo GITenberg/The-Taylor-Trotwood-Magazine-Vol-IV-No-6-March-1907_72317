@@ -1,0 +1,42 @@
+_repo: The-Taylor-Trotwood-Magazine-Vol-IV-No-6-March-1907_72317
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Taylor, Robt. L. (Robert Love)
+    aliases:
+    - Taylor, Robert Love
+    - Taylor, Bob
+    birthdate: 1850
+    deathdate: 1912
+    gutenberg_agent_id: '9122'
+    url: http://www.gutenberg.org/2009/agents/9122
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Love_Taylor
+  - agent_name: Trotwood, John
+    gutenberg_agent_id: '56646'
+    url: http://www.gutenberg.org/2009/agents/56646
+description: ''
+gutenberg_issued: '2023-12-04'
+identifiers:
+  gutenberg: '72317'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=mdp.39015065395322&view=1up&seq=1313
+pgterms:marc905: 20200525033440various
+pgterms:marc906: '1907'
+pgterms:marc907: US
+production_note: hekula03 and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bThe Taylor-Trotwood Publishing Co., $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Taylor-Trotwood Magazine, Vol. IV, No. 6, March 1907
+url: http://www.gutenberg.org/ebooks/72317

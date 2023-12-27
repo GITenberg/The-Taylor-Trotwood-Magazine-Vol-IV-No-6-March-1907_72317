@@ -1,5 +1,8 @@
 _repo: The-Taylor-Trotwood-Magazine-Vol-IV-No-6-March-1907_72317
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72317-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '56646'
     url: http://www.gutenberg.org/2009/agents/56646
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72317#The-Taylor-Trotwood-Magazine-Vol-IV-No-6-March-1907
 gutenberg_issued: '2023-12-04'
 identifiers:
   gutenberg: '72317'
